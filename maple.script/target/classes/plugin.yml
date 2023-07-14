@@ -1,0 +1,12 @@
+name: MaplePlugin
+version: 1.0.0
+description: MaplePlugin is a simple and new. It is developed by skibib or Mr. Libag from discord
+author: Mr. Libag
+website: GitHub soon
+
+main: MapleScript
+
+commands:
+  Hello:
+    description: A hello world command
+    usage: /hello
