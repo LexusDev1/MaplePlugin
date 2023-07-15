@@ -27,3 +27,5 @@ MaplePlugin is released under the [MIT License](https://opensource.org/licenses/
 
 Feel free to contribute to this project by opening pull requests or suggesting improvements. We appreciate any contributions!
 
+# Change Log
+- Changing to gradle instead of maven
